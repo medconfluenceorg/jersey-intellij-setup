@@ -1,0 +1,1 @@
+# jersey-intellij-setup
